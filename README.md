@@ -1,12 +1,26 @@
-# 💫 About Me:
-I am Ryan Christopher Lim. Nice to meet you!
+<p align="center">
+<img width="500" height="500" alt="logo" src="https://github.com/user-attachments/assets/7a0ebd71-b2a5-448d-b748-a75aaa4f19bb" />
+<img width="1280" height="320" alt="resumeheader" src="https://github.com/user-attachments/assets/28fbe6eb-7a90-47a5-90ab-09fa562bc679" />
+<img width="794" height="300" alt="tagline" src="https://github.com/user-attachments/assets/e3d58d99-80ff-4652-9ff4-5d36bc4f95f5" />
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ryanchristopherlim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ryanchristopherlim&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanchristopherlim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**About Me:**
 
----
-[![](https://visitcount.itsvg.in/api?id=ryanchristopherlim&icon=0&color=0)](https://visitcount.itsvg.in)
+I am a 3rd-year student at Ateneo de Davao University, currently pursuing a Bachelor of Science in Aerospace Engineering. My goal is to graduate and become an aerospace engineer.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->****
+**Skills:**
+
+I am hardworking and determined!
+
+I am a bicycle mechanic and know my way around tinkering.
+
+**Contact Info:**
+
+rcblim@addu.edu.ph
+<p align="center">
+<img width="1920" height="1080" alt="Color Palette Typography" src="https://github.com/user-attachments/assets/47c52a4f-eeba-4b5b-a358-63538928cc5f" />
+</p>
+
+
+
+
