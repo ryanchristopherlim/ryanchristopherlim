@@ -14,6 +14,10 @@ I am hardworking and determined!
 
 I am a bicycle mechanic and know my way around tinkering.
 
+**My First Youtube Video:**
+
+https://youtu.be/bdcRIRZiiQY
+
 **Contact Info:**
 
 rcblim@addu.edu.ph
